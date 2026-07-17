@@ -1,1 +1,1 @@
-# Implied-Volatility
+An Implied Volatility (IV) solver which uses Nifty50 call option chain data to obtain IV using Newton-Raphson root finding method. Further, the project includes plotting volatility skews and volatility surfaces. The projects also employs input based 'spread' of strike prices to obtain the skews and surfaces without the impact of deep ITM and OTM calls. 
